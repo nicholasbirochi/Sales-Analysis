@@ -33,7 +33,7 @@ A Pandas notebook for working through a sales analysis from the source CSVs to p
 
 ## Dataset requirements
 
-Place the following files in the expected paths:
+The data files are not included in this repository. Place the following files in the expected paths:
 
 - `vendas.csv` (sales transactions)
 - `produtos.csv` (product catalog with categories)
