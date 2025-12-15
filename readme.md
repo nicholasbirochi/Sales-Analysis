@@ -1,6 +1,6 @@
 # Sales Data Analysis with Pandas (Notebook)
 
-A Python notebook project focused on exploring, cleaning, and analyzing sales data using **Pandas** and **NumPy**. The workflow includes basic EDA, feature engineering (total revenue), missing data handling, aggregations by product/month/category, and dataset merging.
+A Pandas notebook for working through a sales analysis from the source CSVs to product, category and monthly summaries. It also includes exercises with missing values, filters and table joins, so the intermediate steps remain visible rather than only the final indicators.
 
 ## What this project does
 
@@ -97,7 +97,9 @@ Depending on your environment, you may need to change the second one to:
 - Turn the notebook into a reusable pipeline (functions + parameters)
 
 ## License
-This project is under the MIT license. See the LICENSE file for more details.
+
+Original code and documentation are covered by [MIT](license). Source datasets and third-party materials keep their own terms.
+This project is under the MIT license. See the license file for more details.
 
 ---
 Made with ♥ by Rocketseat
